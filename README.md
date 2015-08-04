@@ -1,2 +1,5 @@
 # demo_git
-Une demo de git, pas à pas
+
+Une demo de git, pas Ã  pas
+
+On modifie depuis GitHub
